@@ -1,0 +1,38 @@
+# Dependencias
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos de construcción
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE y editores
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# Archivos temporales
+tmp/
+temp/
